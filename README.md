@@ -103,6 +103,7 @@ microcontroller.
 * Motor Control
   * Implemented motor control to rotate the camera.
   * Used an ATmega microcontroller to control the stepper motor.
+
 [StepperMotor](https://github.com/Thathsara-Dassanayake/Depth-Camera/blob/main/StepperMotor.cpp)
 
 * Results
