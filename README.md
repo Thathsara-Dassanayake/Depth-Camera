@@ -30,3 +30,8 @@ https://github.com/user-attachments/assets/b677afcc-1f56-4e24-a2f9-319fe8ce68ad
 ## Software Integration and Programming Analysis
 This section provides a comprehensive overview of the programming aspects of our depth camera
 project, detailing the implementation and testing processes involved in capturing images, calibrating cameras, detecting objects, matching features, and calculating depth.
+
+1. Capturing the Image
+* Implement a code to capture a photo from the USB webcam when the ’S’ key is pressed.
+* Used OpenCV to interact with the USB webcam and capture images. The
+code allows capturing images by pressing the ’S’ key and exits on pressing ’Q’ or interrupt.
