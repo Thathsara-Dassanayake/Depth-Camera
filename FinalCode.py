@@ -87,9 +87,9 @@ time.sleep(10) #waiting time to let the camera rotate to the other position
 ImageCapture('right2.jpg')     #taking the right picture once the camera is done rotating
 
 # Predict using the trained model
-trained_model_path = "/Users/sasindu/Desktop/DC/Results/detect/train/weights/best.pt"  
+trained_model_path = "/Users/thathsara/Desktop/DC/Results/detect/train/weights/best.pt"  
 trained_model = YOLO(trained_model_path)
-results = trained_model.predict(["/Users/sasindu/Desktop/DC/left.jpg","/Users/sasindu/Desktop/DC/right.jpg"],save=True, imgsz=640, conf=0.98)
+results = trained_model.predict(["/Users/sasindu/Desktop/DC/left.jpg","/Users/thathsara/Desktop/DC/right.jpg"],save=True, imgsz=640, conf=0.98)
 
 
 # Extract bounding boxes, classes, names, and confidences
