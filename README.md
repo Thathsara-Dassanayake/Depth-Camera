@@ -173,7 +173,7 @@ All design of the enclosure was done by SolidWorks.
 
 ## Complete Integrated Design
 The complete 3D printed design integrates the main body, rotating component, and back lid seamlessly. The assembly clearly shows the PCB and stepper motor, highlighting their well-considered
-placement and integration within the enclosure. This comprehensive design ensures that all components work together cohesively, providing a robust and efficient solution for the depth camera
+placement and integration within the enclosure. This comprehensive design ensures that all components work together cohesively, providing a robust and efficient solution for the depth camera
 system.
 
 ![image](https://github.com/user-attachments/assets/be27f6ee-c382-4ef0-aa73-9c1ff617cca9)
